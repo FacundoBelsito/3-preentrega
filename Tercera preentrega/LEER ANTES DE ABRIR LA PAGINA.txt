@@ -1,0 +1,3 @@
+Buenas tardes tutor esta pagina que le entrego es una landing que hice para un cliente verdadero, como yo no estuve en el anterior
+curso de desarrollo web no tenia ninguno como para entregar y en vez de hacer un html y css desde cero use esto agregandole lo 
+aprendido y pedido en las consignas, lo que hice nuevo esta en el archivo login.js y en el index.html lo demas es lo que ya tenia hecho
